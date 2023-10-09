@@ -1,0 +1,26 @@
+.desc {
+  display: flex;
+  align-items: center;
+
+}
+
+.card{
+  padding-top: 60px;
+}
+
+.vid{
+  height: 600px;
+  width: 800px;
+
+}
+
+.back{
+  position: absolute;
+  top: 4%;
+  border-radius: 10px;
+  background: red;
+  color: white;
+
+}
+
+
